@@ -17,7 +17,7 @@ This repository contains a Python script utilizing the Hugging Face Transformers
 
 3. **Run the Script:**
    ```bash
-   python TextSummarization.py
+   python text_summarization.py
    ```
 
 ## Article Summary
